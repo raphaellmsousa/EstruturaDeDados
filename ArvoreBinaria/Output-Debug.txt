@@ -1,0 +1,12 @@
+﻿'ArvoreBinaria.exe' (Win32): Loaded 'C:\Users\rapha\source\repos\ArvoreBinaria\Debug\ArvoreBinaria.exe'. Symbols loaded.
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x1f0c has exited with code 0 (0x0).
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'ArvoreBinaria.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x442c has exited with code 0 (0x0).
+The thread 0x20f0 has exited with code 0 (0x0).
+The program '[5780] ArvoreBinaria.exe' has exited with code 0 (0x0).
