@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\rapha\source\repos\EstruturaDeDadosListaSimples_NaoCirc\EstruturaDeDadosListaSimples_NaoCirc\Source.cpp(16,15): warning C4101: 'pos': unreferenced local variable
+C:\Users\rapha\source\repos\EstruturaDeDadosListaSimples_NaoCirc\EstruturaDeDadosListaSimples_NaoCirc\Source.cpp(16,20): warning C4101: 'c': unreferenced local variable
+C:\Users\rapha\source\repos\EstruturaDeDadosListaSimples_NaoCirc\EstruturaDeDadosListaSimples_NaoCirc\Source.cpp(16,10): warning C4101: 'num': unreferenced local variable
+C:\Users\rapha\source\repos\EstruturaDeDadosListaSimples_NaoCirc\EstruturaDeDadosListaSimples_NaoCirc\Source.cpp(18,7): warning C4101: 'musica': unreferenced local variable
+  EstruturaDeDadosListaSimples_NaoCirc.vcxproj -> C:\Users\rapha\source\repos\EstruturaDeDadosListaSimples_NaoCirc\Debug\EstruturaDeDadosListaSimples_NaoCirc.exe
